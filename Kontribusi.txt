@@ -1,0 +1,30 @@
+Didit Johar Maulana - 1301194021:
+- Membuat view add data pengunjung
+- Membuat view edit data pengunjung
+- Membuat fitur search
+- Membuat GudangControllerController 
+- Membuat migration
+- Membuat DashboardController
+
+Alfransis Perugia Bennybeng Holle - 1301194085:
+- Membuat view dan controller dashbord
+- Membuat view data pengunjung
+- Membuat dan setting route
+- Membuat view inventory
+- Membuat semua seeder
+- Melakukan koneksi database 
+
+Sri Utami - 1301194104 :
+- Membuat view login
+- Membuat LoginController
+- Melakukan templating engine
+
+Romi Rukman - 1301194129:
+- Upload ke github
+- Membuat user model
+- Membuat gudang model
+
+
+
+Semua :
+- Membuat CRUD Transaction
